@@ -6,6 +6,7 @@ func1()
 {
 	func1 body
 	{
+		changed in expr branch
 	}
 }
 
