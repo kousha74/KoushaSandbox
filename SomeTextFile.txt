@@ -13,5 +13,6 @@ func2()
 {
 	func2 body
 	{
+		changed by master branch
 	}
 }
