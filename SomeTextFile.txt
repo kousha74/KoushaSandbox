@@ -1,3 +1,17 @@
 Some text file
 
 Added in the experiment branch
+
+func1()
+{
+	func1 body
+	{
+	}
+}
+
+func2()
+{
+	func2 body
+	{
+	}
+}
