@@ -1,0 +1,19 @@
+Some text file
+
+Added in the experiment branch
+
+func1()
+{
+	func1 body
+	{
+		changed in expr branch
+	}
+}
+
+func2()
+{
+	func2 body
+	{
+		changed by master branch
+	}
+}
