@@ -15,5 +15,6 @@ func2()
 	func2 body
 	{
 		changed by master branch
+		func2 updated bu sighini
 	}
 }
